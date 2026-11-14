@@ -14,6 +14,7 @@ disable-model-invocation: true
    If the changes are clearer as several commits, propose each one. **Wait for approval** before running anything.
 
    Never add AI attribution (`Co-Authored-By`, "Generated with…", any mention of Claude/AI) to commits or the PR.
+
 4. **Commit and push.** Run the approved commands, then `git push -u origin HEAD`.
 5. **PR.** Open it prefilled in the browser so the user reviews it before creating it:
    `gh pr create --web --base main --title "<conventional title>" --body "<body>"`
