@@ -20,7 +20,7 @@
     "check": "pnpm format:check && pnpm lint:check && pnpm typecheck"
   },
   "dependencies": {
-    "astro": "^7.4.11"
+    "astro": "^7.4.12"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
